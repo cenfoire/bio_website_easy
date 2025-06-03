@@ -2,8 +2,6 @@
 
 A modern and elegant bio page with real-time Discord and Spotify integration.
 
-![Bio Page Preview](https://via.placeholder.com/800x400/0a0a0a/e0e0e0?text=Clean+Bio+Page)
-
 ## ✨ Features
 
 - 🎵 **Real-time Spotify Integration** - Shows currently playing music
@@ -13,10 +11,6 @@ A modern and elegant bio page with real-time Discord and Spotify integration.
 - 🌙 **Dark Theme** - Modern dark aesthetic
 - 🎨 **Custom Cursor** - Interactive cursor with hover effects
 - 💫 **Particle Effects** - Animated background particles
-
-## 🚀 Demo
-
-[Live Demo](https://cenfoire.github.io/bio_website_easy)
 
 ## 🛠️ Technologies Used
 
